@@ -8,3 +8,5 @@ var Person = /** @class */ (function () {
     };
     return Person;
 }());
+var ariful = new Person("anisul", 23);
+ariful.display();

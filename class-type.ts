@@ -10,5 +10,6 @@ class Person{
     display(){
         console.log(`userame: ${this.personName}, age: ${this.age}`)
     }
-
 }
+let ariful = new Person("anisul", 23);
+ariful.display()
