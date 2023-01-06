@@ -1,0 +1,1 @@
+console.log("access property from class")
